@@ -26,5 +26,4 @@ This repository demonstrates GitHub skills including:
 
 ## 🚀 Usage
 To run the hello script:
-```bash
 python scripts/hello.py
