@@ -16,7 +16,7 @@ In this assignment, I'm learning:
 This repository demonstrates GitHub skills including:
 - Creating and organizing project files
 - Writing clear documentation
-- Using GitHub collaborative features (Issues, labels)
+- Using GitHub collaborative features
 - Implementing proper licensing and project configuration
 
 ## 🗂️ Repository Structure
